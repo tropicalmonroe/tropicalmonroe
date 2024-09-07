@@ -20,11 +20,11 @@
 
 <p align="left"> <a href="https://twitter.com/la_monroe_" target="blank"><img src="https://img.shields.io/twitter/follow/la_monroe_?logo=twitter&style=for-the-badge" alt="la_monroe_" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Python and C programming**
+- 🌱 I’m currently learning **Advanced JavaScript and C++ programming**
 
-- 👨‍💻 All of my projects are available at [https://open.spotify.com/artist/74W4kN8GOt7Gg2fOhXyhTJ](https://open.spotify.com/artist/74W4kN8GOt7Gg2fOhXyhTJ)
+- 👨‍💻 All of my projects are available at [https://github.com/tropicalmonroe]( https://github.com/tropicalmonroe)
 
-- 💬 Ask me about **Python and GitBash**
+- 💬 Ask me about **Javascript and ReactJs**
 
 - 📫 How to reach me **shitsamajohn01@gmail.com**
 
