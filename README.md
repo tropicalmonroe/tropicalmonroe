@@ -21,11 +21,11 @@
 
 <p align="left"> <a href="https://twitter.com/la_monroe_" target="blank"><img src="https://img.shields.io/twitter/follow/la_monroe_?logo=twitter&style=for-the-badge" alt="la_monroe_" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced JavaScript and C++ programming**
+- 🌱 I’m currently building **Advanced TypeScript and NextJS** Softwares
 
 - 👨‍💻 All of my projects are available at [https://github.com/tropicalmonroe]( https://github.com/tropicalmonroe)
 
-- 💬 Ask me about **Javascript and ReactJs**
+- 💬 Ask me about **NextJs and ReactJs**
 
 - 📫 How to reach me **shitsamajohn01@gmail.com**
 
